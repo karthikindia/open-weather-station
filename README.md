@@ -10,6 +10,10 @@ ___Eng. Francisco Clariá___
 Take a look at the [Youtube tutorials](#youtube-tutorials) that will walk you through all the steps to get the station ready :)
 <br>
 https://stations.windguru.cz/register.php for stations monitor portal
+<br>
+https://skootsone.yolasite.com/wind-pow-02.php
+<br>
+https://github.com/zpukr/esp8266-WindStation
 
 
 # Table of contents
